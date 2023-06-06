@@ -1,5 +1,7 @@
 <!-- This template is based on this awesome template:  https://github.com/othneildrew/Best-README-Template -->
 
+<!-- search for the word "replace", and replace all the different instances depending on the project -->
+
 <a name="readme-top"></a>
 
 <br />
