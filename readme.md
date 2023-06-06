@@ -46,6 +46,8 @@
 
 ### 🔨 Built With
 
+<!-- uncomment the badges you want -->
+
 <!-- - [![SvelteKit][svelteKit-badge]][SvelteKit-url] -->
 <!-- - [![TypeScript][typescript-badge]][typescript-url] -->
 <!-- - [![Iconify][iconify-badge]][iconify-url] -->
